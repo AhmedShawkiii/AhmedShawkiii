@@ -1,32 +1,29 @@
-# 🔥 Ahmed Shawki — Future Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Ahmed Shawki</h1>
+<h3 align="center">Future Full-Stack Developer from Egypt 🇪🇬</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Future+Full+Stack+Developer;Learning+Web+Development;Always+Learning+New+Things" />
 </div>
 
-<h3 align="center">👋 Hey there! I'm Ahmed Shawki</h3>
+---
 
-<p align="center">
-💻 Future Full-Stack Developer <br>
-🚀 Passionate about Web Development <br>
-📚 Currently learning and building projects
-</p>
+## 👨‍💻 About Me
+
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🚀 My goal is to become a **Professional Full-Stack Developer**
+- 💻 I love building **web projects**
+- 📚 Always learning new technologies
+- ⚡ Fun fact: I love solving coding problems
 
 ---
 
-## 📌 Learning Path
-- 🌱 HTML  
-- 🎨 CSS  
-- ⚡ JavaScript  
-- ⚛️ React (Soon)  
-- 🗄️ Node.js & Databases (Soon)
+## 🛠 Tech Stack
 
----
+<div align="center">
 
-## 🛠 Tools I Use
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,chrome"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,chrome"/>
+
+</div>
 
 ---
 
@@ -34,27 +31,30 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 Goals for 2026
-- Build real web projects  
-- Learn React & Backend  
-- Contribute to Open Source  
-- Become a Professional Full-Stack Developer
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 ---
 
 ## 📬 Contact Me
 
-📧 **Email:** ahmedshawkysh3@gmail.com  
-🐙 **GitHub:** https://github.com/USERNAME
+📧 Email: **ahmedshawkysh3@gmail.com**
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+⭐ If you like my projects, don't forget to **star the repositories**.
