@@ -7,7 +7,6 @@
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedshawki&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ahmedshawki?style=for-the-badge&color=70A5FD&labelColor=1a1b27&label=FOLLOWERS)](https://github.com/ahmedshawki)
 
 </div>
 
