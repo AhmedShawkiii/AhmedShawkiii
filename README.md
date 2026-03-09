@@ -60,29 +60,10 @@ const ahmed = {
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedshawki&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=70A5FD&icon_color=70A5FD&text_color=a9b1d6&rank_icon=github" height="180px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshawki&layout=compact&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=70A5FD&text_color=a9b1d6" height="180px"/>
-
----
-
-## 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=ahmedshawki&theme=tokyo-night&hide_border=true&background=1a1b27&ring=70A5FD&fire=FF9E64&currStreakLabel=70A5FD&sideLabels=a9b1d6&currStreakNum=C0CAF5&sideNums=C0CAF5&dates=565F89" alt="GitHub Streak"/>
-
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedshawki&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70A5FD&line=70A5FD&point=FF9E64&area=true&area_color=70A5FD)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedshawki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shawki-8538042b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedshawki@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedshawki)
 
